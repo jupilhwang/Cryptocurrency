@@ -132,7 +132,7 @@
  * pool_password  - Can be empty in most cases or "x".
  */
 "pool_address" : "xmr-us-east1.nanopool.org:14444",
-"wallet_address" : "42b6BvH9aC8akaLLycjNw66wp58pbzwwY7zcPLYTHSJdTQmSFt7RJn8UvbmiGgmjHM5NLtcqG4DbreRcSsSuEReEHRdwSvu.p100/namoo4u@gmail.com",
+"wallet_address" : "4HmoXnbeopf9V2TnSNrhjCdB9WT95a4nseV86vZKtqPoSxP5gnWjdLaAGnsNy3dXvwaq78t4MSA5GGWs9DQCN6vy7BEWGzFF55QHRgpxXu.p100/namoo4u@gmail.com",
 "pool_password" : "x",
 
 /*

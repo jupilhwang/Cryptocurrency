@@ -3,7 +3,7 @@
  * here is the size of your L3 cache divided by 2. Intel mid-to-high end desktop processors have 2MB of L3
  * cache per physical core. Low end cpus can have 1.5 or 1 MB while Xeons can have 2, 2.5 or 3MB per core.
  */
-"cpu_thread_num" : 51,
+"cpu_thread_num" : 55,
 
 /*
  * Thread configuration for each thread. Make sure it matches the number above.
@@ -73,6 +73,11 @@
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 48 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 49 },
 	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 50 },
+	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 51 },
+	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 52 },
+	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 53 },
+	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 54 },
+	{ "low_power_mode" : false, "no_prefetch" : false, "affine_to_cpu" : 55 }
 ],
 
 /*
